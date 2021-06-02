@@ -1,0 +1,18 @@
+#submit_button
+{
+margin-top: 20px;
+margin-bottom: 20px;
+background-color: blueviolet;    
+}
+#sort_button {
+display: none;
+margin-top: 20px;
+margin-bottom: 20px;
+background-color: blueviolet;    
+}
+input {
+margin: 10px;
+}
+body {
+color:"aqua";    
+}
